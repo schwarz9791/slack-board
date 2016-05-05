@@ -1,0 +1,1 @@
+var riot = require('riot');
